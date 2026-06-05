@@ -1,0 +1,14 @@
+.main{
+ display: grid;
+ grid-template-columns: 300px  200px  400px 200px;
+ row-gap: 50px;
+ column-gap: 20px;
+}
+
+
+.card{
+ 
+    padding: 20px;
+    background-color: yellow;
+}
+ 
